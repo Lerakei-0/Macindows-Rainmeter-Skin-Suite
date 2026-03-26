@@ -6,6 +6,7 @@
 </p>
 
 # Configuration
+Download and place the "Macindows-Lerakei-0" folder in your rainmeter theme folder, usually "\documents\rainmeter\skins"
 ## X Followers widget
 Needed: Python, Selenium  
 ```
