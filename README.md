@@ -29,3 +29,16 @@ If you edited the output file directory in th epython script, edit it at line 26
 >- Program/Script: "%localappdata%\Python\pythoncore-3.14-64\pythonw.exe".  
 >- Arguments: "\DIRECTORY WHERE YOU PLACED THE PYTHON SCRIPT\fetch_followers_selenium_headless.py".  
 >- Done.
+
+## Mastodon Followers widget
+Much simpler configuration since mastodon's API are open and free.  
+Simply open the .ini file and edit the following:  
+- Line 18: Replace "{YOUR INSTANCE eg: mastodon.social}" with your instance url.  
+- Line 19: Repalce "{YOUR USERNAME ON SAID INSTANCE}" with your plain username with no @.
+
+Exemple:
+>MastodonInstance=mastodon.social  
+>MastodonUsername=Mastodon
+
+## Slideshow widget
+Simply change line 20 to your desired image folder path.
