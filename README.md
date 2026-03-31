@@ -2,7 +2,7 @@
 # Macindows-Rainmeter-Skin-Suite
 <p align="center">
   A skin suite for Rainmeter Following the Macindows color scheme with a loose macOS9/Platinum inspiration  
-  <img src="https://github.com/Lerakei-0/Macindows-Rainmeter-Skin-Suite/blob/main/Screenshot.png?raw=true" />
+  <img src="https://github.com/Lerakei-0/Macindows-Rainmeter-Skin-Suite/blob/main/Screenshot(dark+light).png?raw=true" />
 </p>
 
 # Configuration
